@@ -1,5 +1,5 @@
 # World of Animus
-VR Zoo game developed in Unity
+World of Animus game developed in Unity
 
 References:  
 
